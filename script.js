@@ -8,5 +8,3 @@ function fibonacci(n) {
 
 module.exports = fibonacci;
 
-
-module.exports = fibonacci;
